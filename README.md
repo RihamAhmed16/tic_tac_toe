@@ -4,13 +4,10 @@ A new Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+The Tic-Tac-Toe game designed with Flutter is a classic game that involves two players, X and O, who take turns placing their marks on a 3x3 grid. The objective of the game is to get three marks in a row, either horizontally, vertically, or diagonally.
 
-A few resources to get you started if this is your first Flutter project:
+The game features a simple and intuitive user interface, with a grid displayed on the screen that allows players to tap on the cells to place their marks. The game also includes animations and sound effects to enhance the user experience.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+In addition, the game includes a score tracker that keeps track of each player's score, allowing players to compete against each other and see who is the ultimate Tic Tac Toe champion.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Overall, the Tic Tac Toe game built with Flutter provides a fun and engaging user experience, with a classic gameplay that is easy to understand and play
